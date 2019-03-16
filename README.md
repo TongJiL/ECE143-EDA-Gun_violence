@@ -30,12 +30,12 @@ Our aim is to try and find correlation between gun violence dataset and other ca
 
 
 
-###  	 	
+###  	 Analysis	
 
-[HeatMap](https://plot.ly/~saideep91/2/gun-violence-across-different-states/#/)
+Click here for interactive map: [HeatMap](https://plot.ly/~saideep91/2/gun-violence-across-different-states/#/) 
 
 ![Heatmap](plot1.png)
 
-[Radius Plot of Incidents](https://saideepreddy91.github.io/radius_plot.html)
+Click here for interactive map: [Radius Plot of Incidents](https://saideepreddy91.github.io/radius_plot.html)
 
 ![Radius Plot](Radius_plot_num_of_incidents.png)
