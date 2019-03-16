@@ -1,0 +1,11 @@
+,PermitRequired_S,PurchasePermitRequired_S,RegistrationOfFirearm_S,OpenCarryAllowed_S,BackGroundchecksOnPrivateGunSalesRequired_S,MagazineSizeRestriction_S,PermitRequired_L,PurchasePermitRequired_L,RegistrationOfFirearm_L,OpenCarryAllowed_L,BackGroundchecksOnPrivateGunSalesRequired_L,MagazineSizeRestriction_L
+California,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Texas,yes,no,no,yes,no,no,no,no,no,yes,no,no
+Ohio,yes,no,no,yes,no,no,no,no,no,yes,no,no
+Illinois,yes,yes,no,no,yes,no,no,yes,no,no,yes,no
+Michigan,yes,no,yes,yes,yes,no,no,no,no,yes,no,no
+Pennsylvania,yes,no,no,yes,yes,no,yes,no,no,yes,no,no
+Tennessee,yes,no,no,yes,no,no,no,no,no,yes,no,no
+New York,yes,yes,yes,no,yes,yes,no,no,no,yes,yes,yes
+Missouri,no,no,no,yes,no,no,no,no,no,yes,no,no
+Louisiana,yes,no,no,yes,no,no,no,no,no,yes,no,no
